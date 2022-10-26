@@ -1,0 +1,366 @@
+.header-div {
+    background: url(header.jpg);
+    width: 100%;
+    height: 680px;
+    background-color: black;
+    display: flex;
+    background-size: cover;
+
+}
+
+body {
+    margin: 0px;
+}
+
+.logo-img {
+    width: 23%;
+    height: 60px;
+    margin-left: 31px;
+    margin-top: 14px
+}
+
+.headmid-div {
+    width: 70%;
+    height: 400px;
+    margin-top: 248px;
+    margin-left: -167px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: flex-start
+}
+
+.Mainhead-title {
+    width: 70%;
+    height: 50px;
+}
+
+.Mainpara {
+    width: 72%;
+    height: 50px;
+    margin-top: 15px;
+
+}
+
+.Mainbutton {
+    width: 46%;
+    height: 50px;
+    margin-top: 27px;
+
+}
+
+.packapeer {
+    color: #fff !important;
+    font-size: 60px !important;
+    text-align: center;
+    margin-top: -11px;
+    font-weight: 100;
+
+}
+
+.Mainp {
+    text-align: center;
+    color: #fff !important;
+    font-size: 14px;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+.buttonmain {
+    width: 70%;
+    height: 50px;
+    background-color: rgba(255, 255, 255, 0);
+    border: solid white;
+    transition-duration: 0.4s;
+    margin-left: 78px;
+    color: #fff;
+
+}
+
+.Mainbutton :hover {
+    color: black;
+    background-color: #fff;
+    text-decoration: underline;
+}
+
+.mid-div {
+    width: 100%;
+    height: 700px;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 60px;
+}
+
+.program-div {
+    width: 80%;
+    height: 558px;
+}
+
+.pogram-h1 {
+    text-align: center;
+    font-size: -webkit-xxx-large;
+    margin-top: -5px;
+}
+
+.programhead {
+    width: 100%;
+    height: 50px;
+}
+
+.middiscretion-border {
+    width: 96%;
+    height: 500px;
+    margin-left: 38px;
+    display: flex;
+    justify-content: space-around;
+    margin-left: 24px;
+}
+
+.hr1 {
+    margin-top: -17px;
+    width: 5%;
+    font-weight: bolder;
+    color: brown;
+    background-color: brown;
+    height: 2px;
+
+}
+
+.mid-head1 {
+    width: 45%;
+    height: 384px;
+    margin-top: 50px;
+    border: 1px solid black;
+}
+
+.mid-head2 {
+    width: 45%;
+    height: 490px;
+    margin-top: 50px;
+    border: 1px solid black;
+}
+
+.midh1 {
+    text-align: center;
+    font-weight: 100;
+}
+
+.submid1 {
+    width: 80%;
+    height: 197px;
+    margin-left: 49px;
+
+}
+
+.submid2 {
+    width: 80%;
+    height: 300px;
+    margin-left: 50px;
+
+}
+
+.submidpara {
+    text-align: justify;
+}
+
+.midbutton {
+    margin-top: 34px;
+    margin-left: 198px;
+    min-width: 150px;
+    min-height: 32px;
+    background-color: rgba(255, 255, 255, 0);
+    border-width: thin;
+    transition-duration: 0.4s;
+
+}
+
+.midbutton:hover {
+    background-color: rgb(12, 12, 32);
+    color: white;
+    text-decoration: underline;
+}
+
+.midend {
+    width: 100%;
+    height: 350px;
+    display: flex;
+    justify-content: center;
+}
+
+
+.midendborder {
+    width: 95%;
+    height: 300px;
+    margin-top: 16px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.midheadend {
+    width: 70%;
+    height: 100px;
+}
+
+.midparaend {
+    width: 80%;
+    height: 200px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center
+}
+
+.midendh1 {
+    text-align: center;
+    font-size: xxx-large;
+    font-weight: 300;
+}
+
+.hrend {
+    margin-top: -20px;
+    width: 5%;
+    font-weight: bolder;
+    color: brown;
+    background-color: brown;
+    height: 2px;
+}
+
+.midendpara1 {
+    width: 45%;
+    height: 170px;
+}
+
+.midendpara2 {
+    width: 45%;
+    height: 170px;
+}
+
+.midendp1 {
+    text-align: justify;
+}
+
+.footer1 {
+    width: 100%;
+    height: 600px;
+    background-color: #002633;
+    display: flex;
+    justify-content: center;
+}
+
+.footborder {
+    width: 80%;
+    height: 500px;
+    margin-top: 54px;
+    display: flex;
+    flex-direction: row-reverse;
+    flex-wrap: wrap
+}
+
+.footerhead {
+    width: 100%;
+    height: 10x;
+}
+
+.footerh1 {
+    text-align: center;
+    color: #fff;
+    font-weight: 100;
+}
+
+.footerpara {
+    width: 100%;
+    height: 50px;
+}
+
+.footerbuton-div {
+    width: 100%;
+    height: 300px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.footercopy-div {
+    width: 100%;
+    height: 10px;
+    
+}
+
+.footerh4 {
+    text-align: center;
+    color: #fff;
+    font-weight: 1;
+    margin-top: -18px;
+    font-size: 13px;
+}
+
+.formsec1 {
+    width: 40%;
+    height: 250px;
+    
+}
+
+input[type=text],
+input[type=email] {
+    width: 100%;
+    padding: 15px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: thick;
+    
+
+    box-sizing: border-box;
+}
+
+.formedits {
+    border-radius: 5px;
+    margin-top: -32px;
+    padding: 20px;
+}
+
+
+
+textarea {
+
+    width: 100%;
+    padding: 15px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: thick;
+    height: 134px;
+
+    box-sizing: border-box;
+
+
+
+}
+.lab{
+    margin: 10px;
+}
+
+.footerbutton {
+    width: 100%;
+    height: 44px;
+    margin-top: 10px;
+    transition-duration: 0.4s;
+    background-color: #002633;
+    color: #fff;
+
+    border-width: 2px;
+    border: 2px solid #fff;
+}
+
+.footerbutton:hover {
+    background-color: #28a745;
+    color: #fff;
+    border: 2px solid #fff;
+
+}
+
+.footercopyh5 {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 1;
+    color: #fff;
+    margin-top: -3px;
+
+}
